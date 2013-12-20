@@ -1,8 +1,8 @@
 #################################################################
-# !/bin/bash						  	                                    #
+# !/bin/bash						  	#
 # Auto-Trading-Client                                           #
 # v0.2-alpha - 20.12.2013                                       #
-# Created by Moritz Wenzel (moritz.wenzel@secure-mail.biz)	    #
+# Created by Moritz Wenzel (moritz.wenzel@secure-mail.biz)	#
 #################################################################
 
 # File that contains the set value for the purchase
