@@ -1,7 +1,7 @@
 #################################################################
-# !/bin/bash						  	#
-# Auto-Trading-Client                                           #
-# v0.2-alpha - 20.12.2013                                       #
+# !/bin/bash							#
+# Auto-Trading-Clien						#
+# v0.2-alpha - 20.12.201					#
 # Created by Moritz Wenzel (moritz.wenzel@secure-mail.biz)	#
 #################################################################
 
