@@ -1,8 +1,8 @@
 #################################################################
-# !/bin/bash							
-# Auto-Trading-Client - Configurator				
-# v0.2-alpha - 20.12.2013					
-# Created by Moritz Wenzel (moritz.wenzel@secure-mail.biz)	
+# !/bin/bash							#
+# Auto-Trading-Client - Configurator				#
+# v0.2-alpha - 20.12.2013					#
+# Created by Moritz Wenzel (moritz.wenzel@secure-mail.biz)	#
 #################################################################
 
 echo "What do you want to do?"
